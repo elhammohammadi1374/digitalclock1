@@ -1,4 +1,4 @@
-package com.example.maryam.digitalclock1;
+package com.example.maryam.digitilclock2;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.maryam.digitalclock1;
+package com.example.maryam.digitilclock2;
 
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
